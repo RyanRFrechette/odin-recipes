@@ -1,6 +1,6 @@
 # odin-recipes
 
-Hello!
+Hello Odin!
 
 Welcome to my recipes project.
 
